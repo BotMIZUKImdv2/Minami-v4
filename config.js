@@ -24,7 +24,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6282239202895'] //GANTI NOMOR KALIAN
 global.premium = ['6282239202895'] //GANTI NOMOR KALIAN
-global.packname = 'MinamiBot MD' //TERSERAH GANTI APA GAK
+global.packname = 'BoboBot MD' //TERSERAH GANTI APA GAK
 global.author = 'BoboBot MD' //TERSERAH
 global.sessionName = 'lolibot' //JANGAN DIGANTI KALO GAK MAU EROR
 global.prefa = ['','!','.','🐦','🐤','🗿'] //JANGAN DI GANTI
